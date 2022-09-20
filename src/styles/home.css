@@ -45,7 +45,8 @@ background-color:#2aa5a517;
 }
 
 .light{
-    box-shadow: 10px 10px 10px 10px rgba(222,203,203,0.75);
+   
+    box-shadow: 0 0 10px 10px rgb(222 203 203 / 75%); 
     -webkit-box-shadow: 10px 10px 10px 10px rgba(222,203,203,0.75);
     -moz-box-shadow: 10px 10px 10px 10px rgba(222,203,203,0.75);
 }
